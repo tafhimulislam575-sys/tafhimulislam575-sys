@@ -1,42 +1,132 @@
-# Python Report Automation 📊
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Tafhimul%20Islam&fontSize=40&fontColor=ffffff" />
+</p>
 
-**Automated KPI Dashboard from Raw System Logs**  
-*One-click Python solution replacing 2+ hours of manual Excel work with instant, 100% accurate reports.*
+<h1 align="center">Hi 👋, I'm Tafhimul Islam</h1>
+<h3 align="center">⚡ IT Systems • Automation • Data Engineering</h3>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-##  Executive Summary
-
-In Procurement, Logistics, HR, and IT departments, teams spend **hours every week** manually opening CSV files, applying filters in Excel, and calculating KPIs — resulting in slow, error-prone, and outdated reports.
-
-This **production-ready Python automation** instantly processes `system_logs.csv`, calculates critical metrics (Success Rate, Average Duration, Error Count, Throughput, etc.), and generates clean, professional reports.
-
-**Built & deployed live at Sysmetics Ltd. (Hamburg)** during my role as Working Student – IT Infrastructure & Process Automation, delivering **40% efficiency gain**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=IT%20Infrastructure%20Specialist;Automation%20Engineer;Data-Driven%20Problem%20Solver&center=true&width=600&height=50">
+</p>
 
 ---
 
-##  Key Features
+## 🧠 Professional Summary
 
--  **True one-click execution** – Run `main.py` → get instant results
--  **100% calculation accuracy** – Zero human error
--  **Real-time bottleneck detection** – Immediate insights for supply chain & process optimization
--  **Scalable & maintainable** – Clean, well-documented code using Pandas & Python best practices
--  **HR/Recruiter friendly demo** – Perfect showcase of automation skills
+Working Student with hands-on experience in **IT infrastructure, network support, and process automation**.
+Skilled in **Python, SAP systems, and data-driven optimization**, delivering measurable efficiency improvements.
 
 ---
 
-## 📊 Business Impact (Proven Results)
+## 💼 Work Experience
 
-| Benefit                  | Impact                                      | Source                  |
-|--------------------------|---------------------------------------------|-------------------------|
-| Time Saved               | ~2 hours/employee/week (~100 hours/year)    | Sysmetics Ltd.          |
-| Efficiency Gain          | 40% reduction in reporting time             | Internal project        |
-| Data Accuracy            | 100% (eliminated manual calculation errors) | Automation logic        |
-| Decision Speed           | From weekly static reports → instant insights | KPI dashboard output   |
+### 🖥️ IT & Desktop Support — netzlab GmbH
 
+* Installed & maintained Cisco network devices
+* Troubleshot network, hardware, and system issues
+* Managed IT assets and infrastructure monitoring
+* Supported Windows/macOS environments
+
+---
+
+### ⚙️ IT Infrastructure & Automation — Sysmetics Ltd.
+
+* Built Python automation → **+40% efficiency**
+* Created reporting systems (Excel + scripts)
+* Supported system integration & documentation
+
+---
+
+### 📦 Supply Chain & Data — SATAIR (Airbus) & DHL
+
+* SAP S/4HANA logistics coordination
+* Built Power BI KPI dashboards
+* Supported lean process optimization
+
+---
+
+## 🛠️ Technical Skills
+
+### 👨‍💻 Programming & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,sql" />
+</p>
+
+---
+
+### 🧰 Systems & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+</p>
+
+---
+
+### 📊 Data & Business Tools
+
+* Power BI
+* Tableau
+* Excel Automation
+* SAP S/4HANA
+
+---
+
+### 🌐 Networking
+
+* Cisco (Routing, Switching, Firewalls)
+* IT Infrastructure & Monitoring
+* Troubleshooting
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tafhimulislam575-sys&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tafhimulislam575-sys&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tafhimulislam575-sys&theme=tokyo-night&hide_border=true" />
+
+---
+
+## 🚀 Key Focus Areas
+
+* 🔧 IT Infrastructure & Systems Engineering
+* 🤖 Process Automation (Python)
+* 📊 Data Analytics & Visualization
+* ⚡ Efficiency Optimization
+
+---
+
+## 🎓 Education
+
+* B.Sc. Information Engineering — HAW Hamburg
+* B.Sc. (Previous) — East Delta University
+
+---
+
+## 🌍 Languages
+
+* English (Fluent)
+* German (Professional)
+* Bengali (Native)
+* Hindi / Urdu (Professional)
+
+---
+
+## 🌐 Contact
+
+📧 [tafhimulislam74@gmail.com](mailto:tafhimulislam74@gmail.com)
+📍 Hamburg, Germany
+
+---
+
+<p align="center">
+⚡ <b>"Build systems. Automate everything. Scale results."</b>
+</p>
