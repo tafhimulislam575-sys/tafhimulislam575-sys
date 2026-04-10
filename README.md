@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Tafhimul%20Islam&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Tafhimul Islam</h1>
-<h3 align="center">⚡ IT Systems • Automation • Data Engineering</h3>
+<h1 align="center">Hi , I'm Tafhimul Islam</h1>
+<h3 align="center"> IT Systems • Automation • Data Engineering</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=IT%20Infrastructure%20Specialist;Automation%20Engineer;Data-Driven%20Problem%20Solver&center=true&width=600&height=50">
@@ -11,16 +11,16 @@
 
 ---
 
-## 🧠 Professional Summary
+##  Professional Summary
 
 Working Student with hands-on experience in **IT infrastructure, network support, and process automation**.
 Skilled in **Python, SAP systems, and data-driven optimization**, delivering measurable efficiency improvements.
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
-### 🖥️ IT & Desktop Support — netzlab GmbH
+###  IT & Desktop Support — netzlab GmbH
 
 * Installed & maintained Cisco network devices
 * Troubleshot network, hardware, and system issues
@@ -29,7 +29,7 @@ Skilled in **Python, SAP systems, and data-driven optimization**, delivering mea
 
 ---
 
-### ⚙️ IT Infrastructure & Automation — Sysmetics Ltd.
+###  IT Infrastructure & Automation — Sysmetics Ltd.
 
 * Built Python automation → **+40% efficiency**
 * Created reporting systems (Excel + scripts)
@@ -37,7 +37,7 @@ Skilled in **Python, SAP systems, and data-driven optimization**, delivering mea
 
 ---
 
-### 📦 Supply Chain & Data — SATAIR (Airbus) & DHL
+###  Supply Chain & Data — SATAIR (Airbus) & DHL
 
 * SAP S/4HANA logistics coordination
 * Built Power BI KPI dashboards
@@ -45,9 +45,9 @@ Skilled in **Python, SAP systems, and data-driven optimization**, delivering mea
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
-### 👨‍💻 Programming & Data
+###  Programming & Data
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,sql" />
@@ -55,7 +55,7 @@ Skilled in **Python, SAP systems, and data-driven optimization**, delivering mea
 
 ---
 
-### 🧰 Systems & Tools
+###  Systems & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
@@ -63,7 +63,7 @@ Skilled in **Python, SAP systems, and data-driven optimization**, delivering mea
 
 ---
 
-### 📊 Data & Business Tools
+###  Data & Business Tools
 
 * Power BI
 * Tableau
@@ -72,7 +72,7 @@ Skilled in **Python, SAP systems, and data-driven optimization**, delivering mea
 
 ---
 
-### 🌐 Networking
+###  Networking
 
 * Cisco (Routing, Switching, Firewalls)
 * IT Infrastructure & Monitoring
@@ -80,7 +80,7 @@ Skilled in **Python, SAP systems, and data-driven optimization**, delivering mea
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tafhimulislam575-sys&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -89,29 +89,29 @@ Skilled in **Python, SAP systems, and data-driven optimization**, delivering mea
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tafhimulislam575-sys&theme=tokyo-night&hide_border=true" />
 
 ---
 
-## 🚀 Key Focus Areas
+##  Key Focus Areas
 
-* 🔧 IT Infrastructure & Systems Engineering
-* 🤖 Process Automation (Python)
-* 📊 Data Analytics & Visualization
-* ⚡ Efficiency Optimization
+* IT Infrastructure & Systems Engineering
+* Process Automation (Python)
+*  Data Analytics & Visualization
+*  Efficiency Optimization
 
 ---
 
-## 🎓 Education
+##  Education
 
 * B.Sc. Information Engineering — HAW Hamburg
 * B.Sc. (Previous) — East Delta University
 
 ---
 
-## 🌍 Languages
+##  Languages
 
 * English (Fluent)
 * German (Professional)
@@ -120,7 +120,7 @@ Skilled in **Python, SAP systems, and data-driven optimization**, delivering mea
 
 ---
 
-## 🌐 Contact
+##  Contact
 
 📧 [tafhimulislam74@gmail.com](mailto:tafhimulislam74@gmail.com)
 📍 Hamburg, Germany
@@ -128,5 +128,5 @@ Skilled in **Python, SAP systems, and data-driven optimization**, delivering mea
 ---
 
 <p align="center">
-⚡ <b>"Build systems. Automate everything. Scale results."</b>
+ <b>"Build systems. Automate everything. Scale results."</b>
 </p>
