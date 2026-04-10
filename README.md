@@ -10,11 +10,14 @@
 </p>
 
 ---
-
-##  Professional Summary
-
-Working Student with hands-on experience in **IT infrastructure, network support, and process automation**.
-Skilled in **Python, SAP systems, and data-driven optimization**, delivering measurable efficiency improvements.
+## about me 
+B.Sc. Information Engineering student at HAW Hamburg  
+Background in IT infrastructure, supply chain operations & process automation  
+Experience working with SAP S/4HANA, Power BI, and data-driven decision systems  
+Built automation solutions using Python to improve operational efficiency  
+Exposure to networking, system support, and enterprise IT environments  
+Interested in bridging technology and business through automation & analytics  
+Strong focus on optimization, structured workflows, and scalable systems
 
 ---
 
